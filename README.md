@@ -4,8 +4,15 @@ Estudante de Sistemas de Informação🎓
 Técnico em Informática🖥️
 Interessado no meu desenvolvimento profissional e pessoal no mundo da informática, buscando aprendizado e renovação contínua do meu perfil.
 
-<!--
-**RickRocha022/RickRocha022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim😃
+
+Tenho grande curiosidade e paixão pela tecnologia e estou sempre buscando evoluir minhas habilidades na área.
+Gosto de transformar ideias e imaginação em projetos práticos, principalmente aqueles que envolvem:
+🔹 Programação 
+🔹 Design
+🔹 Lógica de programação
+🔹 Sistemas praticos
+🔹 Soluções do cotidiano
 
 Here are some ideas to get you started:
 
