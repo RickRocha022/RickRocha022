@@ -7,6 +7,7 @@ Interessado no meu desenvolvimento profissional e pessoal no mundo da informáti
 Sobre mim😃
 
 Tenho grande curiosidade e paixão pela tecnologia e estou sempre buscando evoluir minhas habilidades na área.
+
 Gosto de transformar ideias e imaginação em projetos práticos, criando soluções que saem do papel e realmente funcionam no dia a dia.
 Tenho interesse especial em projetos que envolvem:
 
@@ -16,9 +17,10 @@ Tenho interesse especial em projetos que envolvem:
 🔹 Sistemas Práticos – Ferramentas que resolvem problemas reais
 🔹 Soluções do Cotidiano – Projetos que facilitam tarefas e melhoram processos
 
-🛠️ Tecnologias que utilizo e conheço 
+Tecnologias que utilizo e conheço🛠️
 
-Python, C++, Java, PHP, HTML e CSS, C#
-SQL (MySQL / PostgreSQL)
-Pacote Office
-Conceitos de Engenharia de Software
+🔹Python, C++, Java, PHP, HTML e CSS, C#
+🔹SQL (MySQL / PostgreSQL)
+🔹Pacote Office
+🔹Conceitos de Engenharia de Software
+
