@@ -1,4 +1,8 @@
-## Hi there 👋
+Olá, eu sou Gabriel Henrique Rocha👋
+
+Estudante de Sistemas de Informação🎓
+Técnico em Informática🖥️
+Interessado no meu desenvolvimento profissional e pessoal no mundo da informática, buscando aprendizado e renovação contínua do meu perfil.
 
 <!--
 **RickRocha022/RickRocha022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
