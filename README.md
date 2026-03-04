@@ -7,10 +7,11 @@ Interessado no meu desenvolvimento profissional e pessoal no mundo da informáti
 Sobre mim😃
 
 Tenho grande curiosidade e paixão pela tecnologia e estou sempre buscando evoluir minhas habilidades na área.
-Gosto de transformar ideias e imaginação em projetos práticos, principalmente aqueles que envolvem:
+Gosto de transformar ideias e imaginação em projetos práticos, criando soluções que saem do papel e realmente funcionam no dia a dia.
+Tenho interesse especial em projetos que envolvem:
 
-🔹 Programação 
-🔹 Design
-🔹 Lógica de programação
-🔹 Sistemas praticos
-🔹 Soluções do cotidiano
+🔹 Programação – Desenvolvimento de sistemas e aplicações funcionais
+🔹 Design – Criação de interfaces organizadas, intuitivas e modernas
+🔹 Lógica de Programação – Construção de soluções estruturadas e eficientes
+🔹 Sistemas Práticos – Ferramentas que resolvem problemas reais
+🔹 Soluções do Cotidiano – Projetos que facilitam tarefas e melhoram processos
