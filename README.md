@@ -15,3 +15,10 @@ Tenho interesse especial em projetos que envolvem:
 🔹 Lógica de Programação – Construção de soluções estruturadas e eficientes
 🔹 Sistemas Práticos – Ferramentas que resolvem problemas reais
 🔹 Soluções do Cotidiano – Projetos que facilitam tarefas e melhoram processos
+
+🛠️ Tecnologias que utilizo e conheço 
+
+Python, C++, Java, PHP, HTML e CSS, C#
+SQL (MySQL / PostgreSQL)
+Pacote Office
+Conceitos de Engenharia de Software
