@@ -12,10 +12,10 @@ Gosto de transformar ideias e imaginação em projetos práticos, criando soluç
 Tenho interesse especial em projetos que envolvem:
 
 🔹 Programação – Desenvolvimento de sistemas e aplicações funcionais
-🔹 Design – Criação de interfaces organizadas, intuitivas e modernas
-🔹 Lógica de Programação – Construção de soluções estruturadas e eficientes
-🔹 Sistemas Práticos – Ferramentas que resolvem problemas reais
-🔹 Soluções do Cotidiano – Projetos que facilitam tarefas e melhoram processos
+🔹Design – Criação de interfaces organizadas, intuitivas e modernas
+🔹Lógica de Programação – Construção de soluções estruturadas e eficientes
+🔹Sistemas Práticos – Ferramentas que resolvem problemas reais
+🔹Soluções do Cotidiano – Projetos que facilitam tarefas e melhoram processos
 
 Tecnologias que utilizo e conheço🛠️
 
