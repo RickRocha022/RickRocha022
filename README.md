@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gabriel%20Henrique%20Rodrigues%20Rocha&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=200&section=header&text=Gabriel%20Henrique%20Rodrigues%20Rocha&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Técnico+em+Informática+(CEMEP);Apaixonado+por+Tecnologia;Programação+e+Design"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00C6FF&size=24&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Técnico+em+Informática+(CEMEP);Apaixonado+por+Tecnologia;Programação+e+Design"/>
 
 </p>
 
@@ -144,5 +144,5 @@ Foi desenvolvido utilizando **APIs e uma interface intuitiva**, com o objetivo d
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00C6FF&height=120&section=footer"/>
 </p>
