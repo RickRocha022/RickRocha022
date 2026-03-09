@@ -93,13 +93,9 @@ Foi desenvolvido utilizando **APIs e uma interface intuitiva**, com o objetivo d
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
+| Status | produtividade |
+|:---:|:---:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickRocha022&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RickRocha022&theme=nord_dark&utcOffset=-3) 
 
 ---
 
@@ -109,7 +105,7 @@ Foi desenvolvido utilizando **APIs e uma interface intuitiva**, com o objetivo d
 
 <img src="https://img.shields.io/badge/Instagram-rick__rocha022-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Henrique%20Rodrigues%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
